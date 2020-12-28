@@ -1,0 +1,338 @@
+2020-12-21 10:17:09,793 INFO  - Navigating to: https://demostore.x-cart.com/ 
+2020-12-21 10:17:15,515 INFO  - Successfully navigated to https://demostore.x-cart.com/ 
+2020-12-21 10:17:15,532 INFO  - Before getting a screenshot
+2020-12-21 10:17:17,507 INFO  - Successfully made a screenshot
+2020-12-21 10:17:19,556 INFO  - Trying to locate: using  By.xpath: //a[@href='electronics/']//span[@class='subcategory-icon']
+2020-12-21 10:17:19,653 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: //a[@href='electronics/']//span[@class='subcategory-icon']] using By.xpath: //a[@href='electronics/']//span[@class='subcategory-icon']
+2020-12-21 10:17:19,663 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: //a[@href='electronics/']//span[@class='subcategory-icon']]
+2020-12-21 10:17:24,043 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: //a[@href='electronics/']//span[@class='subcategory-icon']] 
+2020-12-21 10:17:24,045 INFO  - Before getting a screenshot
+2020-12-21 10:17:25,205 INFO  - Successfully made a screenshot
+2020-12-21 10:17:25,245 INFO  - Trying to locate: using  By.xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']
+2020-12-21 10:17:25,297 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']] using By.xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']
+2020-12-21 10:17:25,298 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']]
+2020-12-21 10:17:28,481 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']] 
+2020-12-21 10:17:28,481 INFO  - Before getting a screenshot
+2020-12-21 10:17:29,344 INFO  - Successfully made a screenshot
+2020-12-21 10:17:29,371 INFO  - Trying to locate: using  By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]
+2020-12-21 10:17:29,404 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]] using By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]
+2020-12-21 10:17:29,405 INFO  - Trying to locate: using  By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]
+2020-12-21 10:17:29,437 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]] using By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]
+2020-12-21 10:17:29,639 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]]
+2020-12-21 10:17:30,038 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]] 
+2020-12-21 10:17:33,541 INFO  - Trying to locate: using  By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]
+2020-12-21 10:17:33,567 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]] using By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]
+2020-12-21 10:17:33,568 INFO  - Trying to locate: using  By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]
+2020-12-21 10:17:33,593 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]] using By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]
+2020-12-21 10:17:33,763 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]]
+2020-12-21 10:17:33,913 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]] 
+2020-12-21 10:17:37,418 INFO  - Trying to locate: using  By.xpath: //*[@id='header-area']//li[@class='leaf first']
+2020-12-21 10:17:37,448 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: //*[@id='header-area']//li[@class='leaf first']] using By.xpath: //*[@id='header-area']//li[@class='leaf first']
+2020-12-21 10:17:37,448 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: //*[@id='header-area']//li[@class='leaf first']]
+2020-12-21 10:17:39,773 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: //*[@id='header-area']//li[@class='leaf first']] 
+2020-12-21 10:17:39,777 INFO  - Trying to locate: using  By.xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]
+2020-12-21 10:17:39,881 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]] using By.xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]
+2020-12-21 10:17:39,882 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (b4c5a54212f4a8b6ee4933ccf1a59787)] -> xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]]
+2020-12-21 10:32:31,178 INFO  - Navigating to: https://demostore.x-cart.com/ 
+2020-12-21 10:32:37,734 INFO  - Successfully navigated to https://demostore.x-cart.com/ 
+2020-12-21 10:32:37,755 INFO  - Before getting a screenshot
+2020-12-21 10:32:40,705 INFO  - Successfully made a screenshot
+2020-12-21 10:32:42,768 INFO  - Trying to locate: null using : By.xpath: //a[@href='electronics/']//span[@class='subcategory-icon']
+2020-12-21 10:32:42,850 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //a[@href='electronics/']//span[@class='subcategory-icon']] using By.xpath: //a[@href='electronics/']//span[@class='subcategory-icon']
+2020-12-21 10:32:42,858 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //a[@href='electronics/']//span[@class='subcategory-icon']]
+2020-12-21 10:32:47,764 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //a[@href='electronics/']//span[@class='subcategory-icon']] 
+2020-12-21 10:32:47,765 INFO  - Before getting a screenshot
+2020-12-21 10:32:49,049 INFO  - Successfully made a screenshot
+2020-12-21 10:32:49,066 INFO  - Trying to locate: null using : By.xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']
+2020-12-21 10:32:49,111 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']] using By.xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']
+2020-12-21 10:32:49,112 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']]
+2020-12-21 10:32:52,502 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']] 
+2020-12-21 10:32:52,503 INFO  - Before getting a screenshot
+2020-12-21 10:32:53,396 INFO  - Successfully made a screenshot
+2020-12-21 10:32:53,445 INFO  - Trying to locate: null using : By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]
+2020-12-21 10:32:53,509 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]] using By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]
+2020-12-21 10:32:53,510 INFO  - Trying to locate: null using : By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]
+2020-12-21 10:32:53,566 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]] using By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]
+2020-12-21 10:32:53,821 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]]
+2020-12-21 10:32:54,474 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]] 
+2020-12-21 10:32:57,977 INFO  - Trying to locate: null using : By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]
+2020-12-21 10:32:58,004 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]] using By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]
+2020-12-21 10:32:58,006 INFO  - Trying to locate: null using : By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]
+2020-12-21 10:32:58,030 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]] using By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]
+2020-12-21 10:32:58,183 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]]
+2020-12-21 10:32:58,328 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]] 
+2020-12-21 10:33:01,831 INFO  - Trying to locate: null using : By.xpath: //*[@id='header-area']//li[@class='leaf first']
+2020-12-21 10:33:01,857 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //*[@id='header-area']//li[@class='leaf first']] using By.xpath: //*[@id='header-area']//li[@class='leaf first']
+2020-12-21 10:33:01,858 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //*[@id='header-area']//li[@class='leaf first']]
+2020-12-21 10:33:04,051 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //*[@id='header-area']//li[@class='leaf first']] 
+2020-12-21 10:33:04,055 INFO  - Trying to locate: null using : By.xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]
+2020-12-21 10:33:04,099 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]] using By.xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]
+2020-12-21 10:33:04,099 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]]
+2020-12-21 10:33:06,650 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]] 
+2020-12-21 10:33:06,652 INFO  - Before getting a screenshot
+2020-12-21 10:33:07,281 INFO  - Successfully made a screenshot
+2020-12-21 10:33:09,792 INFO  - Trying to locate: null using : By.xpath: //img[@class='photo']
+2020-12-21 10:33:09,829 INFO  - Successfully located null using By.xpath: //img[@class='photo']
+2020-12-21 10:33:09,834 INFO  - Before getting a screenshot
+2020-12-21 10:33:10,284 INFO  - Successfully made a screenshot
+2020-12-21 10:33:10,292 INFO  - Trying to locate: null using : By.xpath: //a[@title='Remove']
+2020-12-21 10:33:10,314 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //a[@title='Remove']] using By.xpath: //a[@title='Remove']
+2020-12-21 10:33:10,315 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //a[@title='Remove']]
+2020-12-21 10:33:12,485 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (c0bed830ec7fe0a6088a7e2340157cd9)] -> xpath: //a[@title='Remove']] 
+2020-12-21 10:33:12,488 INFO  - Trying to locate: null using : By.xpath: //img[@class='photo']
+2020-12-21 10:33:12,549 INFO  - Successfully located null using By.xpath: //img[@class='photo']
+2020-12-21 10:33:12,550 INFO  - Before getting a screenshot
+2020-12-21 10:33:13,183 INFO  - Successfully made a screenshot
+2020-12-21 14:09:10,300 INFO  - Navigating to: https://demostore.x-cart.com/ 
+2020-12-21 14:09:16,513 INFO  - Successfully navigated to https://demostore.x-cart.com/ 
+2020-12-21 14:09:16,537 INFO  - Before getting a screenshot
+2020-12-21 14:09:16,840 INFO  - Successfully made a screenshot
+2020-12-21 14:09:18,902 INFO  - Trying to locate: null using : By.xpath: //div[contains(@class,'header_bar-sign_in')]//button[contains(@type,'button')]
+2020-12-21 14:09:18,944 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //div[contains(@class,'header_bar-sign_in')]//button[contains(@type,'button')]] using By.xpath: //div[contains(@class,'header_bar-sign_in')]//button[contains(@type,'button')]
+2020-12-21 14:09:18,954 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //div[contains(@class,'header_bar-sign_in')]//button[contains(@type,'button')]]
+2020-12-21 14:09:19,660 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //div[contains(@class,'header_bar-sign_in')]//button[contains(@type,'button')]] 
+2020-12-21 14:09:22,162 INFO  - Trying to locate: null using : By.xpath: //*[@class='popup-button default-popup-button create-account-link']
+2020-12-21 14:09:22,178 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //*[@class='popup-button default-popup-button create-account-link']] using By.xpath: //*[@class='popup-button default-popup-button create-account-link']
+2020-12-21 14:09:22,178 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //*[@class='popup-button default-popup-button create-account-link']]
+2020-12-21 14:09:22,740 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //*[@class='popup-button default-popup-button create-account-link']] 
+2020-12-21 14:09:25,246 INFO  - Trying to locate: null using : By.id: login
+2020-12-21 14:09:25,272 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> id: login] using By.id: login
+2020-12-21 14:09:25,273 INFO  - Sending [abc1@mail.com] to  [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> id: login]
+2020-12-21 14:09:25,397 INFO  - EventType: sendKeys() - Element: [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> id: login] - Value: [[abc1@mail.com]]
+2020-12-21 14:09:27,897 INFO  - Trying to locate: null using : By.id: password
+2020-12-21 14:09:27,933 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> id: password] using By.id: password
+2020-12-21 14:09:27,934 INFO  - Sending [Qwerty123456] to  [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> id: password]
+2020-12-21 14:09:28,009 INFO  - EventType: sendKeys() - Element: [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> id: password] - Value: [[Qwerty123456]]
+2020-12-21 14:09:30,511 INFO  - Trying to locate: null using : By.id: password-conf
+2020-12-21 14:09:30,522 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> id: password-conf] using By.id: password-conf
+2020-12-21 14:09:30,523 INFO  - Sending [Qwerty123456] to  [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> id: password-conf]
+2020-12-21 14:09:30,590 INFO  - EventType: sendKeys() - Element: [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> id: password-conf] - Value: [[Qwerty123456]]
+2020-12-21 14:09:33,091 INFO  - Trying to locate: null using : By.xpath: //div[@class='button submit']
+2020-12-21 14:09:33,108 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //div[@class='button submit']] using By.xpath: //div[@class='button submit']
+2020-12-21 14:09:33,109 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //div[@class='button submit']]
+2020-12-21 14:09:33,389 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //div[@class='button submit']] 
+2020-12-21 14:09:35,893 INFO  - Trying to locate: null using : By.xpath: //div[@class='status-messages-wrapper']
+2020-12-21 14:09:35,942 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //div[@class='status-messages-wrapper']] using By.xpath: //div[@class='status-messages-wrapper']
+2020-12-21 14:09:35,943 INFO  - Trying to get text from: [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //div[@class='status-messages-wrapper']]
+2020-12-21 14:09:35,993 INFO  - Successfully retrieved text from : [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //div[@class='status-messages-wrapper']] 
+2020-12-21 14:09:35,997 INFO  - Before getting a screenshot
+2020-12-21 14:09:36,470 INFO  - Successfully made a screenshot
+2020-12-21 14:09:39,992 INFO  - Trying to locate: null using : By.xpath: //*[@id='header-bar']/div[3]/a
+2020-12-21 14:09:40,002 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //*[@id='header-bar']/div[3]/a] using By.xpath: //*[@id='header-bar']/div[3]/a
+2020-12-21 14:09:40,003 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //*[@id='header-bar']/div[3]/a]
+2020-12-21 14:09:40,234 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //*[@id='header-bar']/div[3]/a] 
+2020-12-21 14:09:42,738 INFO  - Trying to locate: null using : By.xpath: //*[@id='header-bar']//a[@class='log-off icon-logout']
+2020-12-21 14:09:42,749 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //*[@id='header-bar']//a[@class='log-off icon-logout']] using By.xpath: //*[@id='header-bar']//a[@class='log-off icon-logout']
+2020-12-21 14:09:42,749 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //*[@id='header-bar']//a[@class='log-off icon-logout']]
+2020-12-21 14:09:44,811 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> xpath: //*[@id='header-bar']//a[@class='log-off icon-logout']] 
+2020-12-21 14:09:48,318 INFO  - Trying to locate: null using : By.className: category-description
+2020-12-21 14:09:48,328 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> class name: category-description] using By.className: category-description
+2020-12-21 14:09:48,329 INFO  - Trying to get text from: [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> class name: category-description]
+2020-12-21 14:09:48,347 INFO  - Successfully retrieved text from : [[FirefoxDriver: firefox on WINDOWS (e5b9d73b-0e48-4537-be60-0aff8c8c1d4d)] -> class name: category-description] 
+2020-12-21 14:09:59,514 INFO  - Navigating to: https://demostore.x-cart.com/ 
+2020-12-21 14:10:03,242 INFO  - Successfully navigated to https://demostore.x-cart.com/ 
+2020-12-21 14:10:03,242 INFO  - Before getting a screenshot
+2020-12-21 14:10:03,909 INFO  - Successfully made a screenshot
+2020-12-21 14:10:05,921 INFO  - Trying to locate: null using : By.xpath: //div[contains(@class,'header_bar-sign_in')]//button[contains(@type,'button')]
+2020-12-21 14:10:05,940 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //div[contains(@class,'header_bar-sign_in')]//button[contains(@type,'button')]] using By.xpath: //div[contains(@class,'header_bar-sign_in')]//button[contains(@type,'button')]
+2020-12-21 14:10:05,940 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //div[contains(@class,'header_bar-sign_in')]//button[contains(@type,'button')]]
+2020-12-21 14:10:06,419 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //div[contains(@class,'header_bar-sign_in')]//button[contains(@type,'button')]] 
+2020-12-21 14:10:09,921 INFO  - Trying to locate: null using : By.id: login-email
+2020-12-21 14:10:09,931 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> id: login-email] using By.id: login-email
+2020-12-21 14:10:09,931 INFO  - Sending [abc1@mail.com] to  [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> id: login-email]
+2020-12-21 14:10:10,014 INFO  - EventType: sendKeys() - Element: [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> id: login-email] - Value: [[abc1@mail.com]]
+2020-12-21 14:10:10,016 INFO  - Trying to locate: null using : By.id: login-password
+2020-12-21 14:10:10,043 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> id: login-password] using By.id: login-password
+2020-12-21 14:10:10,043 INFO  - Sending [Qwerty123456] to  [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> id: login-password]
+2020-12-21 14:10:10,134 INFO  - EventType: sendKeys() - Element: [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> id: login-password] - Value: [[Qwerty123456]]
+2020-12-21 14:10:10,135 INFO  - Before getting a screenshot
+2020-12-21 14:10:10,683 INFO  - Successfully made a screenshot
+2020-12-21 14:10:10,696 INFO  - Trying to locate: null using : By.xpath: //table[@class='login-form']//button[@type='submit']
+2020-12-21 14:10:10,708 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //table[@class='login-form']//button[@type='submit']] using By.xpath: //table[@class='login-form']//button[@type='submit']
+2020-12-21 14:10:10,709 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //table[@class='login-form']//button[@type='submit']]
+2020-12-21 14:10:10,988 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //table[@class='login-form']//button[@type='submit']] 
+2020-12-21 14:10:13,495 INFO  - Trying to locate: null using : By.xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='?target=order_list']
+2020-12-21 14:10:13,828 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='?target=order_list']] using By.xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='?target=order_list']
+2020-12-21 14:10:13,828 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='?target=order_list']]
+2020-12-21 14:10:16,248 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='?target=order_list']] 
+2020-12-21 14:10:19,752 INFO  - Trying to locate: null using : By.xpath: //*[@id='content']//a[@href='?target=profile']
+2020-12-21 14:10:19,770 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //*[@id='content']//a[@href='?target=profile']] using By.xpath: //*[@id='content']//a[@href='?target=profile']
+2020-12-21 14:10:19,771 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //*[@id='content']//a[@href='?target=profile']]
+2020-12-21 14:10:21,770 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //*[@id='content']//a[@href='?target=profile']] 
+2020-12-21 14:10:25,272 INFO  - Trying to locate: null using : By.xpath: //a[@class=' delete-user-button']
+2020-12-21 14:10:25,282 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //a[@class=' delete-user-button']] using By.xpath: //a[@class=' delete-user-button']
+2020-12-21 14:10:25,282 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //a[@class=' delete-user-button']]
+2020-12-21 14:10:25,783 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //a[@class=' delete-user-button']] 
+2020-12-21 14:10:29,285 INFO  - Trying to locate: null using : By.xpath: //div[@class='delete-user-buttons-list']//button[@type='submit']
+2020-12-21 14:10:29,295 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //div[@class='delete-user-buttons-list']//button[@type='submit']] using By.xpath: //div[@class='delete-user-buttons-list']//button[@type='submit']
+2020-12-21 14:10:29,295 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //div[@class='delete-user-buttons-list']//button[@type='submit']]
+2020-12-21 14:10:30,500 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //div[@class='delete-user-buttons-list']//button[@type='submit']] 
+2020-12-21 14:10:30,501 INFO  - Before getting a screenshot
+2020-12-21 14:10:30,779 INFO  - Successfully made a screenshot
+2020-12-21 14:10:34,292 INFO  - Trying to locate: null using : By.xpath: //div[@class='status-messages-wrapper']
+2020-12-21 14:10:34,303 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //div[@class='status-messages-wrapper']] using By.xpath: //div[@class='status-messages-wrapper']
+2020-12-21 14:10:34,304 INFO  - Trying to get text from: [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //div[@class='status-messages-wrapper']]
+2020-12-21 14:10:34,339 INFO  - Successfully retrieved text from : [[FirefoxDriver: firefox on WINDOWS (e5966057-10e9-4f08-a93b-fcfbb20e66a5)] -> xpath: //div[@class='status-messages-wrapper']] 
+2020-12-21 14:10:34,339 INFO  - Before getting a screenshot
+2020-12-21 14:10:35,139 INFO  - Successfully made a screenshot
+2020-12-21 14:10:45,272 INFO  - Navigating to: https://demostore.x-cart.com/ 
+2020-12-21 14:10:49,212 INFO  - Successfully navigated to https://demostore.x-cart.com/ 
+2020-12-21 14:10:49,213 INFO  - Before getting a screenshot
+2020-12-21 14:10:49,881 INFO  - Successfully made a screenshot
+2020-12-21 14:10:51,893 INFO  - Trying to locate: null using : By.xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='newarrivals/']
+2020-12-21 14:10:51,913 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='newarrivals/']] using By.xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='newarrivals/']
+2020-12-21 14:10:51,913 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='newarrivals/']]
+2020-12-21 14:10:54,571 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='newarrivals/']] 
+2020-12-21 14:10:54,571 INFO  - Trying to locate: null using : By.id: page-title
+2020-12-21 14:10:54,619 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> id: page-title] using By.id: page-title
+2020-12-21 14:10:54,620 INFO  - Trying to get text from: [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> id: page-title]
+2020-12-21 14:10:54,671 INFO  - Successfully retrieved text from : [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> id: page-title] 
+2020-12-21 14:10:54,678 INFO  - Trying to locate: null using : By.xpath: //*[@id="content"]/div/div/div[3]/div/div/div[3]/ul/li[1]/div
+2020-12-21 14:10:54,712 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> xpath: //*[@id="content"]/div/div/div[3]/div/div/div[3]/ul/li[1]/div] using By.xpath: //*[@id="content"]/div/div/div[3]/div/div/div[3]/ul/li[1]/div
+2020-12-21 14:10:54,712 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> xpath: //*[@id="content"]/div/div/div[3]/div/div/div[3]/ul/li[1]/div]
+2020-12-21 14:10:58,235 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> xpath: //*[@id="content"]/div/div/div[3]/div/div/div[3]/ul/li[1]/div] 
+2020-12-21 14:11:00,744 INFO  - Trying to locate: null using : By.xpath: //button[@class='btn  regular-button regular-main-button add2cart submit']
+2020-12-21 14:11:00,759 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> xpath: //button[@class='btn  regular-button regular-main-button add2cart submit']] using By.xpath: //button[@class='btn  regular-button regular-main-button add2cart submit']
+2020-12-21 14:11:00,760 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> xpath: //button[@class='btn  regular-button regular-main-button add2cart submit']]
+2020-12-21 14:11:01,143 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> xpath: //button[@class='btn  regular-button regular-main-button add2cart submit']] 
+2020-12-21 14:11:05,147 INFO  - Trying to locate: null using : By.linkText: Checkout
+2020-12-21 14:11:05,565 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> link text: Checkout] using By.linkText: Checkout
+2020-12-21 14:11:05,565 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> link text: Checkout]
+2020-12-21 14:11:08,571 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> link text: Checkout] 
+2020-12-21 14:11:08,574 INFO  - Trying to locate: null using : By.id: login-email
+2020-12-21 14:11:08,609 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> id: login-email] using By.id: login-email
+2020-12-21 14:11:08,609 INFO  - Sending [abc1@mail.com] to  [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> id: login-email]
+2020-12-21 14:11:08,963 INFO  - EventType: sendKeys() - Element: [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> id: login-email] - Value: [[abc1@mail.com]]
+2020-12-21 14:11:12,468 INFO  - Trying to locate: null using : By.id: login-password
+2020-12-21 14:11:12,478 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> id: login-password] using By.id: login-password
+2020-12-21 14:11:12,479 INFO  - Sending [Qwerty123456] to  [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> id: login-password]
+2020-12-21 14:11:12,541 INFO  - EventType: sendKeys() - Element: [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> id: login-password] - Value: [[Qwerty123456]]
+2020-12-21 14:11:12,541 INFO  - Before getting a screenshot
+2020-12-21 14:11:12,702 INFO  - Successfully made a screenshot
+2020-12-21 14:11:16,216 INFO  - Trying to locate: null using : By.xpath: //table[@class='login-form']//button[@type='submit']
+2020-12-21 14:11:16,226 INFO  - Successfully located [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> xpath: //table[@class='login-form']//button[@type='submit']] using By.xpath: //table[@class='login-form']//button[@type='submit']
+2020-12-21 14:11:16,229 INFO  - Trying to click on : [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> xpath: //table[@class='login-form']//button[@type='submit']]
+2020-12-21 14:11:18,413 INFO  - Successfully clicked on: [[FirefoxDriver: firefox on WINDOWS (cf474419-9e4f-4b3c-9429-8e385ffe65f6)] -> xpath: //table[@class='login-form']//button[@type='submit']] 
+2020-12-21 14:11:21,917 INFO  - Trying to locate: null using : By.xpath: //table[@class='login-form']//div[@class='form-error']
+2020-12-21 14:11:21,946 ERROR - Exception has been thrown: Unable to locate element: //table[@class='login-form']//div[@class='form-error']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'EN32315', ip: '10.91.44.57', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 84.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201211215739, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 12704, moz:profile: C:\Users\CKulev\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cf474419-9e4f-4b3c-9429-8e385ffe65f6
+*** Element info: {Using=xpath, value=//table[@class='login-form']//div[@class='form-error']}
+2020-12-21 14:11:21,972 INFO  - Before getting a screenshot
+2020-12-21 14:11:22,087 INFO  - Successfully made a screenshot
+2020-12-21 14:39:16,772 INFO  - Navigating to: https://demostore.x-cart.com/ 
+2020-12-21 14:39:21,661 INFO  - Successfully navigated to https://demostore.x-cart.com/ 
+2020-12-21 14:39:21,683 INFO  - Before getting a screenshot
+2020-12-21 14:39:23,890 INFO  - Successfully made a screenshot
+2020-12-21 14:39:25,931 INFO  - Trying to locate: null using : By.xpath: //a[@href='electronics/']//span[@class='subcategory-icon']
+2020-12-21 14:39:25,998 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //a[@href='electronics/']//span[@class='subcategory-icon']] using By.xpath: //a[@href='electronics/']//span[@class='subcategory-icon']
+2020-12-21 14:39:26,007 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //a[@href='electronics/']//span[@class='subcategory-icon']]
+2020-12-21 14:39:30,702 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //a[@href='electronics/']//span[@class='subcategory-icon']] 
+2020-12-21 14:39:30,703 INFO  - Before getting a screenshot
+2020-12-21 14:39:31,627 INFO  - Successfully made a screenshot
+2020-12-21 14:39:31,639 INFO  - Trying to locate: null using : By.xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']
+2020-12-21 14:39:31,668 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']] using By.xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']
+2020-12-21 14:39:31,668 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']]
+2020-12-21 14:39:34,051 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //a[@href='electronics/smart-watches/']//span[@class='subcategory-icon']] 
+2020-12-21 14:39:34,052 INFO  - Before getting a screenshot
+2020-12-21 14:39:34,804 INFO  - Successfully made a screenshot
+2020-12-21 14:39:34,823 INFO  - Trying to locate: null using : By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]
+2020-12-21 14:39:34,850 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]] using By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]
+2020-12-21 14:39:34,851 INFO  - Trying to locate: null using : By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]
+2020-12-21 14:39:34,875 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]] using By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]
+2020-12-21 14:39:35,063 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]]
+2020-12-21 14:39:35,410 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[1]//label[contains(@for,'product')]] 
+2020-12-21 14:39:38,913 INFO  - Trying to locate: null using : By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]
+2020-12-21 14:39:38,936 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]] using By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]
+2020-12-21 14:39:38,937 INFO  - Trying to locate: null using : By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]
+2020-12-21 14:39:38,959 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]] using By.xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]
+2020-12-21 14:39:39,102 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]]
+2020-12-21 14:39:39,237 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: (//ul[@class='products-grid grid-list']//li[contains(@class,'product-cell')])[2]//label[contains(@for,'product')]] 
+2020-12-21 14:39:42,741 INFO  - Trying to locate: null using : By.xpath: //*[@id='header-area']//li[@class='leaf first']
+2020-12-21 14:39:42,775 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //*[@id='header-area']//li[@class='leaf first']] using By.xpath: //*[@id='header-area']//li[@class='leaf first']
+2020-12-21 14:39:42,776 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //*[@id='header-area']//li[@class='leaf first']]
+2020-12-21 14:39:45,036 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //*[@id='header-area']//li[@class='leaf first']] 
+2020-12-21 14:39:45,039 INFO  - Trying to locate: null using : By.xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]
+2020-12-21 14:39:45,078 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]] using By.xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]
+2020-12-21 14:39:45,079 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]]
+2020-12-21 14:39:47,000 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //div[@id='header']//div[contains(@class,'header_product-comparison compare-indicator recently-updated')]//a[contains(@title,'Open comparison table')]] 
+2020-12-21 14:39:47,000 INFO  - Before getting a screenshot
+2020-12-21 14:39:47,543 INFO  - Successfully made a screenshot
+2020-12-21 14:39:50,050 INFO  - Trying to locate: null using : By.xpath: //img[@class='photo']
+2020-12-21 14:39:50,079 INFO  - Successfully located null using By.xpath: //img[@class='photo']
+2020-12-21 14:39:50,083 INFO  - Before getting a screenshot
+2020-12-21 14:39:50,494 INFO  - Successfully made a screenshot
+2020-12-21 14:39:50,501 INFO  - Trying to locate: null using : By.xpath: //a[@title='Remove']
+2020-12-21 14:39:50,520 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //a[@title='Remove']] using By.xpath: //a[@title='Remove']
+2020-12-21 14:39:50,520 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //a[@title='Remove']]
+2020-12-21 14:39:52,235 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (fc3c2bc11673b63bb6c4407bcd2790a2)] -> xpath: //a[@title='Remove']] 
+2020-12-21 14:39:52,239 INFO  - Trying to locate: null using : By.xpath: //img[@class='photo']
+2020-12-21 14:39:52,265 INFO  - Successfully located null using By.xpath: //img[@class='photo']
+2020-12-21 14:39:52,265 INFO  - Before getting a screenshot
+2020-12-21 14:39:52,751 INFO  - Successfully made a screenshot
+2020-12-21 14:40:02,237 INFO  - Navigating to: https://demostore.x-cart.com/ 
+2020-12-21 14:40:07,914 INFO  - Successfully navigated to https://demostore.x-cart.com/ 
+2020-12-21 14:40:07,915 INFO  - Before getting a screenshot
+2020-12-21 14:40:09,733 INFO  - Successfully made a screenshot
+2020-12-21 14:40:11,750 INFO  - Trying to locate: null using : By.xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='newarrivals/']
+2020-12-21 14:40:11,809 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (39d56c6191ba128b9509fd546e3c816f)] -> xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='newarrivals/']] using By.xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='newarrivals/']
+2020-12-21 14:40:11,809 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (39d56c6191ba128b9509fd546e3c816f)] -> xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='newarrivals/']]
+2020-12-21 14:40:15,274 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (39d56c6191ba128b9509fd546e3c816f)] -> xpath: //ul[@class='nav navbar-nav top-main-menu']//a[@href='newarrivals/']] 
+2020-12-21 14:40:15,274 INFO  - Trying to locate: null using : By.id: page-title
+2020-12-21 15:16:01,510 INFO  - Navigating to: https://demostore.x-cart.com/ 
+2020-12-21 15:16:06,950 INFO  - Successfully navigated to https://demostore.x-cart.com/ 
+2020-12-21 15:16:06,977 INFO  - Before getting a screenshot
+2020-12-21 15:16:08,791 INFO  - Successfully made a screenshot
+2020-12-21 15:16:10,826 INFO  - Trying to execute script: window.scrollBy(0,500),  using ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)
+2020-12-21 15:16:10,886 INFO  - Successfully executed script: window.scrollBy(0,500),  using ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)
+2020-12-21 15:16:10,886 INFO  - Trying to execute script: window.scrollBy(0,500),  using ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)
+2020-12-21 15:16:10,910 INFO  - Successfully executed script: window.scrollBy(0,500),  using ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)
+2020-12-21 15:16:10,932 INFO  - Trying to locate: null using : By.cssSelector: div.product.productid-14
+2020-12-21 15:16:11,044 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> css selector: div.product.productid-14] using By.cssSelector: div.product.productid-14
+2020-12-21 15:16:11,178 INFO  - Trying to locate: null using : By.cssSelector: div.product.productid-14
+2020-12-21 15:16:11,211 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> css selector: div.product.productid-14] using By.cssSelector: div.product.productid-14
+2020-12-21 15:16:11,211 INFO  - Element [[[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> css selector: div.product.productid-14]] is present on page
+2020-12-21 15:16:11,226 INFO  - Trying to locate: null using : By.cssSelector: div.product.productid-14
+2020-12-21 15:16:11,245 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> css selector: div.product.productid-14] using By.cssSelector: div.product.productid-14
+2020-12-21 15:16:11,707 INFO  - Trying to locate: null using : By.cssSelector: button.btn.regular-button.add-to-cart.product-add2cart.productid-14
+2020-12-21 15:16:11,772 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> css selector: button.btn.regular-button.add-to-cart.product-add2cart.productid-14] using By.cssSelector: button.btn.regular-button.add-to-cart.product-add2cart.productid-14
+2020-12-21 15:16:11,773 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> css selector: button.btn.regular-button.add-to-cart.product-add2cart.productid-14]
+2020-12-21 15:16:11,970 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> css selector: button.btn.regular-button.add-to-cart.product-add2cart.productid-14] 
+2020-12-21 15:16:11,971 INFO  - Before getting a screenshot
+2020-12-21 15:16:13,008 INFO  - Successfully made a screenshot
+2020-12-21 15:16:13,017 INFO  - Trying to locate: null using : By.xpath: //div[@class='item-buttons']//a[@class='regular-button cart']
+2020-12-21 15:16:13,439 ERROR - Exception has been thrown: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='item-buttons']//a[@class='regular-button cart']"}
+  (Session info: chrome=87.0.4280.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'EN32315', ip: '10.91.44.57', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\CKulev\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52798}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 2484099a900d5341f921d49a82f01e2e
+*** Element info: {Using=xpath, value=//div[@class='item-buttons']//a[@class='regular-button cart']}
+2020-12-21 15:16:13,941 INFO  - Trying to locate: null using : By.xpath: //div[@class='item-buttons']//a[@class='regular-button cart']
+2020-12-21 15:16:15,007 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> xpath: //div[@class='item-buttons']//a[@class='regular-button cart']] using By.xpath: //div[@class='item-buttons']//a[@class='regular-button cart']
+2020-12-21 15:16:15,996 INFO  - Trying to locate: null using : By.xpath: //div[@class='item-buttons']//a[@class='regular-button cart']
+2020-12-21 15:16:16,024 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> xpath: //div[@class='item-buttons']//a[@class='regular-button cart']] using By.xpath: //div[@class='item-buttons']//a[@class='regular-button cart']
+2020-12-21 15:16:16,024 INFO  - Element [[[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> xpath: //div[@class='item-buttons']//a[@class='regular-button cart']]] is present on page
+2020-12-21 15:16:16,024 INFO  - Before getting a screenshot
+2020-12-21 15:16:16,996 INFO  - Successfully made a screenshot
+2020-12-21 15:16:17,010 INFO  - Trying to locate: null using : By.xpath: //div[@class='item-buttons']//a[@class='regular-button cart']
+2020-12-21 15:16:17,034 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> xpath: //div[@class='item-buttons']//a[@class='regular-button cart']] using By.xpath: //div[@class='item-buttons']//a[@class='regular-button cart']
+2020-12-21 15:16:17,035 INFO  - Trying to click on : [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> xpath: //div[@class='item-buttons']//a[@class='regular-button cart']]
+2020-12-21 15:16:19,902 INFO  - Successfully clicked on: [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> xpath: //div[@class='item-buttons']//a[@class='regular-button cart']] 
+2020-12-21 15:16:19,903 INFO  - Trying to locate: null using : By.xpath: //*[@class = 'btn  regular-button regular-main-button checkout']
+2020-12-21 15:16:20,036 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> xpath: //*[@class = 'btn  regular-button regular-main-button checkout']] using By.xpath: //*[@class = 'btn  regular-button regular-main-button checkout']
+2020-12-21 15:16:20,069 INFO  - Trying to locate: null using : By.xpath: //*[@class = 'btn  regular-button regular-main-button checkout']
+2020-12-21 15:16:20,096 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> xpath: //*[@class = 'btn  regular-button regular-main-button checkout']] using By.xpath: //*[@class = 'btn  regular-button regular-main-button checkout']
+2020-12-21 15:16:20,097 INFO  - Element [[[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> xpath: //*[@class = 'btn  regular-button regular-main-button checkout']]] is present on page
+2020-12-21 15:16:20,098 INFO  - Trying to locate: null using : By.xpath: //p[@class='item-title']//a[@href='multicolored-dress-with-balloon-sleeves'][contains(text(),'Multicolored Dress with Balloon Sleeves [Options &')]
+2020-12-21 15:16:20,171 INFO  - Successfully located [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> xpath: //p[@class='item-title']//a[@href='multicolored-dress-with-balloon-sleeves'][contains(text(),'Multicolored Dress with Balloon Sleeves [Options &')]] using By.xpath: //p[@class='item-title']//a[@href='multicolored-dress-with-balloon-sleeves'][contains(text(),'Multicolored Dress with Balloon Sleeves [Options &')]
+2020-12-21 15:16:20,172 INFO  - Trying to get text from: [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> xpath: //p[@class='item-title']//a[@href='multicolored-dress-with-balloon-sleeves'][contains(text(),'Multicolored Dress with Balloon Sleeves [Options &')]]
+2020-12-21 15:16:20,231 INFO  - Successfully retrieved text from : [[ChromeDriver: chrome on WINDOWS (2484099a900d5341f921d49a82f01e2e)] -> xpath: //p[@class='item-title']//a[@href='multicolored-dress-with-balloon-sleeves'][contains(text(),'Multicolored Dress with Balloon Sleeves [Options &')]] 
+2020-12-21 15:16:20,240 INFO  - Before getting a screenshot
+2020-12-21 15:16:20,730 INFO  - Successfully made a screenshot
